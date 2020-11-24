@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhushan-joshi&label=Profile%20views&color=0e75b6&style=flat-square" alt="bhushan-joshi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_bhushan_joshi" target="blank"><img src="https://img.shields.io/twitter/follow/_bhushan_joshi?logo=twitter&style=for-the-badge" alt="_bhushan_joshi" /></a> </p>
-<hr>
--
+
 - 🔭 I’m currently working on [E-commerce](https://github.com/keen-eye-team/E-commerce)
 
 - 🌱 I’m currently learning **everything 😂**
@@ -13,7 +12,6 @@
 - 👯 I’m looking to collaborate with **other Developer**
 
 - ⚡ Fun fact **Love to watch 'web series'**
--
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
