@@ -29,5 +29,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhushan-joshi&show_icons=true&locale=en&layout=compact" alt="bhushan-joshi" /></p>
 <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhushan-joshi&show_icons=true&title_color=000000&text_color=000000&locale=en" alt="bhushan-joshi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhushan-joshi&show_icons=true" alt="bhushan-joshi" /></p>
 
