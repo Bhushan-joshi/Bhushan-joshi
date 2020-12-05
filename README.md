@@ -2,6 +2,9 @@
 <h3 align="center">I'm Student, Developer, and Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhushan-joshi&label=Profile%20views&color=0e75b6&style=flat-square" alt="bhushan-joshi" /> </p>
+[![Repos Badge](https://badges.pufler.dev/repos/Bhushan-joshi)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/Bhushan-joshi)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/yearly/Bhushan-joshi)](https://badges.pufler.dev)
 
 <p align="left"> <a href="https://twitter.com/_bhushan_joshi" target="blank"><img src="https://img.shields.io/twitter/follow/_bhushan_joshi?logo=twitter&style=for-the-badge" alt="_bhushan_joshi" /></a> </p>
 
