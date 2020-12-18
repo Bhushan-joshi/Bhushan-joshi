@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate with **other Developer**
 
-- ⚡ Fun fact **Love to watch 'web series'**
+- ⚡ Fun fact **tabs over spaces**
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
