@@ -10,7 +10,7 @@
 
 I'm a passionate developer who loves building things for the web. Turning ideas into beautiful, functional applications is what drives me.
 
-- 🔭 &nbsp; I’m currently building **[FlowFi](https://github.com/Bhushan-joshi/flow-fi)**, a modern application to streamline workflows.
+- 🔭 &nbsp; I’m currently building **[FlowFi](https://github.com/Bhushan-joshi/flow-fi)**, a application to streamline payment workflows.
 - 🌱 &nbsp; I’m focused on mastering **Full-Stack Development** and exploring the worlds of Cloud and AI.
 - 👯 &nbsp; I’m always open to collaborating on **exciting open-source projects**, especially in the JavaScript & Java ecosystems.
 - 💬 &nbsp; Ask me about **Next.js, Spring Boot, System Design, or anything web development**!
